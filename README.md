@@ -84,16 +84,12 @@
  - **Catalog PostgreSQL User**
     - `sudo -i -u postgres`
     - `psql`
-      - `createuser catalog`
-      - `createdb catalog`
+      - `CREATE USER catalog WITH PASSWORD 'udacity';`
+      - `CREATE DATABASE catalog;`
+      - `GRANT ALL PRIVILEDGES ON DATABASE catalog to catalog;`
       - `\q`
    - `logout`
    - `sudo adduser catalog`
-   - `sudo -i -u catalog`
-   - `psql`
-     - `\password`
-       - `udacity`
-     - `\q`
    - `logout`
 
 ## Third-party Resources Used:
