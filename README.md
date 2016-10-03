@@ -62,7 +62,6 @@
  - **Disable Root Access**
     - `nano /etc/ssh/sshd_config`
       - `PermitRootLogin no`
-      - `DenyUsers root`
  - **SSH Port**
     - `nano /etc/ssh/sshd_config`
       - `Port 2200`
