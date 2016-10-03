@@ -3,11 +3,11 @@
 ====================================
 
 ## IP Address:
- - **52.88.231.47**
+ - **54.71.235.138**
     - SSH Port: 2200
 
 ## URL:
- - **http://ec2-52-88-231-47.us-west-2.compute.amazonaws.com/**
+ - **http://ec2-54-71-235-138.us-west-2.compute.amazonaws.com/**
 
 ## Software Installed:
  - **Apache**
