@@ -86,7 +86,7 @@
     - `psql`
       - `CREATE USER catalog WITH PASSWORD 'udacity';`
       - `CREATE DATABASE catalog;`
-      - `GRANT ALL PRIVILEDGES ON DATABASE catalog to catalog;`
+      - `GRANT ALL PRIVILEGES ON DATABASE catalog to catalog;`
       - `\q`
    - `logout`
    - `sudo adduser catalog`
