@@ -57,6 +57,8 @@
     - `cd .ssh`
     - `chown grader authorized_keys`
     - `chgrp grader authorized_keys`
+    - *Password:*
+      - `BrFP7gUqJ`
  - **Disable Root Access**
     - `nano /etc/ssh/sshd_config`
       - `PermitRootLogin no`
