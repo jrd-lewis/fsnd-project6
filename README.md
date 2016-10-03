@@ -44,7 +44,7 @@
  - **Grader User**
     - `sudo adduser grader`
     - `nano /etc/sudoers.d/grader`
-      - `grader ALL=(ALL) NOPASSWD:ALL`
+      - `grader ALL=(ALL) PASSWD:ALL`
     - `cd /home/grader`
     - `mkdir .ssh`
     - `cd /root`
