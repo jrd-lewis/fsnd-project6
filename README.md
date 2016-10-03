@@ -90,6 +90,8 @@
       - `\q`
    - `logout`
    - `sudo adduser catalog`
+   - *Password:*
+     - `udacity`
 
 ## Third-party Resources Used:
  - **https://www.digitalocean.com/community/tutorials/how-to-deploy-a-flask-application-on-an-ubuntu-vps**
